@@ -1,0 +1,23 @@
+C:\Рабочая Папка\ShapesCollisions\ShapesCollisions\bin\Debug\ShapesCollisions.dll
+C:\Рабочая Папка\ShapesCollisions\ShapesCollisions\bin\Debug\ShapesCollisions.pdb
+C:\Рабочая Папка\ShapesCollisions\ShapesCollisions\obj\Debug\ShapesCollisions.csprojAssemblyReference.cache
+C:\Рабочая Папка\ShapesCollisions\ShapesCollisions\obj\Debug\ShapesCollisions.csproj.CoreCompileInputs.cache
+C:\Рабочая Папка\ShapesCollisions\ShapesCollisions\obj\Debug\ShapesCollisions.dll
+C:\Рабочая Папка\ShapesCollisions\ShapesCollisions\obj\Debug\ShapesCollisions.pdb
+C:\Users\человек\source\repos\ShapesCollisions\ShapesCollisions\bin\Debug\ShapesCollisions.dll
+C:\Users\человек\source\repos\ShapesCollisions\ShapesCollisions\bin\Debug\ShapesCollisions.pdb
+C:\Users\человек\source\repos\ShapesCollisions\ShapesCollisions\obj\Debug\ShapesCollisions.csprojAssemblyReference.cache
+C:\Users\человек\source\repos\ShapesCollisions\ShapesCollisions\obj\Debug\ShapesCollisions.csproj.CoreCompileInputs.cache
+C:\Users\человек\source\repos\ShapesCollisions\ShapesCollisions\obj\Debug\ShapesCollisions.dll
+C:\Users\человек\source\repos\ShapesCollisions\ShapesCollisions\obj\Debug\ShapesCollisions.pdb
+D:\c# projects\repos\ShapesCollisions\ShapesCollisions\obj\Debug\ShapesCollisions.csprojAssemblyReference.cache
+D:\c# projects\repos\ShapesCollisions\ShapesCollisions\obj\Debug\ShapesCollisions.csproj.CoreCompileInputs.cache
+D:\c# projects\repos\ShapesCollisions\ShapesCollisions\obj\Debug\ShapesCollisions.dll
+D:\c# projects\repos\ShapesCollisions\ShapesCollisions\obj\Debug\ShapesCollisions.pdb
+D:\c# projects\repos\ShapesCollisions\ShapesCollisions\bin\Debug\ShapesCollisions.dll
+D:\c# projects\repos\ShapesCollisions\ShapesCollisions\bin\Debug\ShapesCollisions.pdb
+D:\c# projects\ShapesCollisions\ShapesCollisions\obj\Debug\ShapesCollisions.csproj.CoreCompileInputs.cache
+D:\c# projects\ShapesCollisions\ShapesCollisions\obj\Debug\ShapesCollisions.dll
+D:\c# projects\ShapesCollisions\ShapesCollisions\obj\Debug\ShapesCollisions.pdb
+D:\c# projects\ShapesCollisions\ShapesCollisions\bin\Debug\ShapesCollisions.dll
+D:\c# projects\ShapesCollisions\ShapesCollisions\bin\Debug\ShapesCollisions.pdb
